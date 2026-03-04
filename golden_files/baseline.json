@@ -1,0 +1,20 @@
+{
+    "readings": [
+        48.95,
+        72.33,
+        99.46,
+        124.52,
+        146.91,
+        170.66,
+        199.42,
+        222.06,
+        250.36,
+        274.95
+    ],
+    "expected_output": {
+        "average": 160.96,
+        "peak": 274.95,
+        "threshold_breached": true,
+        "total_readings": 10
+    }
+}
